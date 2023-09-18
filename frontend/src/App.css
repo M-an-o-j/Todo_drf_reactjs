@@ -1,0 +1,30 @@
+.bg {
+  background-color: #79E0EE;
+}
+
+.bg-todo {
+  background-color: #98EECC;
+}
+
+.fixed-component {
+  position: fixed;
+  /* Keep this component fixed in place */
+  /* Adjust top position as needed */
+  left: 0;
+}
+.fixed-component-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+.myaxis{
+  margin: 1rem 0;
+}
+.hfull{
+  height: 100vh;
+}
+
+.Register{
+  width: 50%;
+}
